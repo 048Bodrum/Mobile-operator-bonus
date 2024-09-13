@@ -13,7 +13,7 @@ public class Main {
             bonus = 0;
             finalBalance = initialBalance + addend;
         }
-            System.out.println("Итоговый счет: " + finalBalance);
-            System.out.println("Бонусы: " + bonus);
+        System.out.println("Итоговый счет: " + finalBalance);
+        System.out.println("Бонусы: " + bonus);
     }
 }
